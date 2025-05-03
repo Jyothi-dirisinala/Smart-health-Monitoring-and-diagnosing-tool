@@ -18,8 +18,9 @@ Smart Health Monitoring System
  -Risk Analysis: Automatically calculates a risk level (Critical, High, Moderate,
  Normal) for each patient based on their vital signs using predefined rules.
  
- -BMI Calculation: Calculates the Body Mass Index (BMI) category (Underweight,
- Normal, Overweight, Obese) for each patient.
+ -BMI Categorization: Determines the Body Mass Index (BMI) category
+ (Underweight, Normal, Overweight, Obese) for each patient based on the BMI
+ value provided in the input data.
  
  -Dashboard Overview: Displays summary statistics, including the total number of
  patients and counts for each risk level.
